@@ -11,3 +11,19 @@ To read more about PyMC3, please visit - https://docs.pymc.io/
 
 ![image](example_data/head-tail.png)
 
+- You toss the coin 5 times
+
+![image](example_data/head.png)
+![image](example_data/head.png)
+![image](example_data/head.png)
+![image](example_data/head.png)
+![image](example_data/head.png)
+
+- Is the coin fair?
+
+##### Summary
+
+- We start with some beliefs (Prior)
+- We see evidence
+- We update our beliefs (Posterior)
+- Beliefs can be represented as probability distributions (we are not generally certain)
